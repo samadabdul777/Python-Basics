@@ -14,5 +14,3 @@ Hi! This is a small project I made to keep track of students and their marks.
 3. Run:
    python student_marks.py
 4. Follow the instructions to add students and their marks
-
-## Example
